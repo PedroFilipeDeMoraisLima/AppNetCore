@@ -7,7 +7,6 @@ C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\bin\Debug\netcor
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\bin\Debug\netcoreapp3.1\AppNetCore.runtimeconfig.dev.json
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\bin\Debug\netcoreapp3.1\AppNetCore.dll
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\bin\Debug\netcoreapp3.1\AppNetCore.pdb
-C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.csprojAssemblyReference.cache
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.AssemblyInfoInputs.cache
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.AssemblyInfo.cs
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcor
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.dll
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.pdb
 C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.genruntimeconfig.cache
+C:\Users\base2\Documents\Visual Studio 2019\Projects\AppNetCore\obj\Debug\netcoreapp3.1\AppNetCore.csprojAssemblyReference.cache
