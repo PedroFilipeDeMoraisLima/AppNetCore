@@ -35,5 +35,12 @@ namespace AppNetCore.Controllers
             })
             .ToArray();
         }
+
+        public IActionResult Testando()
+        {
+            var obj = new { status = "ok", id = 1 };
+
+            return Ok(obj);
+        }
     }
 }
