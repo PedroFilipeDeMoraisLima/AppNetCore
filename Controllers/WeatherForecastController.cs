@@ -35,7 +35,9 @@ namespace AppNetCore.Controllers
             })
             .ToArray();
         }
-
+        
+        [HttpGet]
+        [Route("testando")]
         public IActionResult Testando()
         {
             var obj = new { status = "ok", id = 1 };
